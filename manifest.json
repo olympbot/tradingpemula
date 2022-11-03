@@ -4,8 +4,8 @@
  "prefer_related_applications": false,
  "start_url":".",
  "scope":"/",
- "background_color": "#009cff",
- "theme_color": "#009cff",
+ "background_color": "#efefef",
+ "theme_color": "#efefef",
  "icons": [
   {
    "src": "/main/android-icon-36x36.png",
